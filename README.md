@@ -16,12 +16,12 @@ collections of useful things to discuss/teach in our team
 
 ## Sessions
 
-## Michi & Kinga
+### Michi & Kinga
 2026-11-05
 
 * erzählen was über Shawi und Wibarab
 
-## Thomas & Timo
+### Thomas & Timo
 
 2026-10-15
 
