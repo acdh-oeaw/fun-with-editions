@@ -19,6 +19,7 @@ see <https://github.com/karl-kraus/kb-static/blob/main/xslt/listbibl.xsl> / <htt
   * import `<xsl:import href="./partials/datatables_import.xsl"/>`
   * add `<xsl:call-template name="datatables_import"/>` to header
   * add `<script src="js/datatables_custom/datatables_custom.js"></script>` before `</body>`
+  * add `<div id="custom-info-box" class="text-muted small text-center"></div>` directly above `<table>` (for `datatables_custom.js` to write entry count into it)
 
 ### custom attributes
 
