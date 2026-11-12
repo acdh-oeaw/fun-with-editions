@@ -16,7 +16,12 @@ collections of useful things to discuss/teach in our team
 
 ## Sessions
 
+### Roast my App ["Die Insel"](roast-my-app/insel.md)
+
+2026-11-19
+
 ### Michi & Kinga
+
 2026-11-05
 
 * erzählen was über Shawi und Wibarab
