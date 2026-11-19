@@ -25,3 +25,11 @@ Thomas:
 - In the navigation menue on the left side of the facsimile view it is not possible to scroll down to the issue numbers except you scroll through the complete table of contents.
 - It seems that the table of contents are not complete for all issues / more than one issue.
 - JG III, Heft 6, Titelblatt: "Baltbasar" instead of "Balthasar" (probably an OCR error).
+
+Martin:
+sorry, can't be there. I really like the images and the colours and how easy it is to use! congratulations!
+- page numbers in the transcript appear not to be centered (the original is)
+- Download possibilities? Open Source?
+- Personally I would like to have a (prefilled) bibliographic source on any page I can copy and paste, including the possibility to only quote the original
+- I don’t like that the blue bar on top is see through
+- Any "Texteingriffe" anywhere? 
