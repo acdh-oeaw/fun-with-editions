@@ -32,4 +32,4 @@ sorry, can't be there. I really like the images and the colours and how easy it 
 - Download possibilities? Open Source?
 - Personally I would like to have a (prefilled) bibliographic source on any page I can copy and paste, including the possibility to only quote the original
 - I don’t like that the blue bar on top is see through
-- Any "Texteingriffe" anywhere? 
+- Why no Editionsprinzipien? I/J, Schaft-s, why "=" instead of the proper UTF-sign "⹀"   
